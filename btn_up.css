@@ -11,6 +11,11 @@
     z-index: 100;
     outline: 0 !important;
     transition: .4s;
+    cursor: pointer;
+}
+
+.btn_up:hover {
+    background-color: darkcyan;
 }
 
 .btn_up:after {

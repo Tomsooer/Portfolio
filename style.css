@@ -168,6 +168,11 @@ a:hover {
     text-transform: uppercase;
     color: #DEDEDE;
     opacity: 0.7;
+    cursor: pointer;
+}
+
+.works__btn:hover {
+    opacity: 0.5;
 }
 
 .works__wrapper {
